@@ -110,7 +110,7 @@
   vertical-align: middle;
 }
 
-.list__item > input[type="checkbox"] {
+.section__input-checkbox {
   margin: 0 10px;
 }
 .list__label {
@@ -119,7 +119,7 @@
   font-size: 18px;
   width: 226px;
 }
-.list__item > input[type="text"] {
+.section__input-text {
   width: 226px;
 }
 .button_delete .button__img {
